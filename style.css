@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, sans-serif, fantasy ; color: darkcyan;
+    font-size: 20px;
+    background-image: url(background.jpg) ;
+    background-size:cover ;
+    width: 50%;
+    margin:auto;
+}
+img {
+    width: 50%;
+    border: 5px dotted red;
+}
